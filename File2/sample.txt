@@ -1,0 +1,4 @@
+Raja
+# w and x - create a new file if it is not exist 
+# x - if file is already exist then it will throw an error 
+# w- if file is already exist then it will overwrite 

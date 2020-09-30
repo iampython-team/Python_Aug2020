@@ -1,0 +1,13 @@
+
+Reusualibilty
+block of code 
+
+functions calling - function name 
+
+4 
+buit-in functions - print(), int() dict() type() 
+lamda functions - lamda 
+magic methods / magic functions / dundle / super - __somename__
+user defined functions 
+ 
+

@@ -1,0 +1,26 @@
+
+
+File - storing 1,00,000 
+files -- .txt, .pdf, .excel, images and videos 
+
+open()
+close()
+
+with 
+
+r,
+w,
+a,
+r+
+w+
+a+
+x
+
+
+rb
+wb
+ab
+r+b
+w+b
+a+b
+x

@@ -1,0 +1,34 @@
+# package 
+
+# module 
+
+
+# project 
+    
+    pkg1 (folder )
+    __init__.py - no code 
+    fib.py -- module 
+    arm.py 
+    employee.py
+
+
+    pkg2 (folder )
+     __init__.py - no code 
+     customer.py
+     sales.py
+
+    pkg3 (folder )
+     __init__.py - no code 
+     .properties 
+     .config 
+     .gitignore 
+
+
+
+# c- main ()  - 
+# java - main() - 20 files - main () - starting 
+
+
+# yes main in python 
+
+

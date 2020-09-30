@@ -1,0 +1,4 @@
+functions are used as params 
+functions can be return 
+functions are objects 
+fuctions can be variables 
